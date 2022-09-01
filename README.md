@@ -2,3 +2,4 @@
 Example code from book "Googletest In Practice: Unit Testing Guide for C++ Programmers"
 
 https://www.bogotobogo.com/cplusplus/google_unit_test_gtest.php
+https://developer.ibm.com/articles/au-googletestingframework/
